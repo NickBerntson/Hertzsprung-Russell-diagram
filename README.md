@@ -1,3 +1,19 @@
 # Hertzsprung-Russell-diagram
-I utilized Python and Matplotlib to create a Hertzsprung-Russell diagram, which visualizes star luminosity vs. temperature for stellar classification. Temperature (Kelvin) and luminosity (solar units) are rounding values for clearer visualization and easier interpretation. Stars are catagorized into groups (Super Giants, Giants, Main Sequence, White Dwarfs) to highlight differences in physical properties. 
-*All of this deliveres a clean, informative scatter plot to support understanding of stellar behavior.
+This project visualizes stellar classifications using a Hertzsprung–Russell diagram created in Python.
+
+## Project Overview:
+Using data from well-known stars, this script plots a scatter graph of star luminosity vs. surface temperature, grouping them into:
+- Supergiants
+- Giants
+- Main Sequence stars
+- White Dwarfs
+
+## Tools Used
+- Python
+- Matplotlib
+- NumPy
+
+## Features
+- Custom scatter plot with labeled star groups.
+- Logarithmic Y-axis to display vast luminosity ranges.
+- Annotated with star names.
