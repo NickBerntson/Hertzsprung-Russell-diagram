@@ -4,22 +4,6 @@ Created on Sun Nov 24 18:57:05 2024
 
 @author: nicol
 """
-
-# Sample data for the scatter plot
-#x = [1, 2, 3, 4, 5]
-#y = [10, 20, 25, 30, 40]
-
-# Create a scatter plot
-#plt.scatter(x, y, color='blue', marker='o')
-
-# Add a title and labels to the axes
-#plt.title("Simple Scatter Plot")
-#plt.xlabel("X Axis")
-#plt.ylabel("Y Axis")
-
-# Display the plot
-#plt.show()
-
 #Super Giants
 
 import matplotlib.pyplot as plt
@@ -74,5 +58,6 @@ plt.title("Hertzsprung-Russell Diagram")
 
 plt.grid(True)
 plt.legend()
+
 
 plt.show()
